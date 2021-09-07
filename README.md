@@ -38,8 +38,6 @@ Download the dataset files. We use the image feature created by SCAN, downloaded
 python train.py
 ```
 ## Evaluation
-
-Test on Flickr30K
 ```bash
 python test.py
 ```
