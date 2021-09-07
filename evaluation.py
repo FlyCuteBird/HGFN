@@ -2,7 +2,7 @@
 
 from __future__ import print_function
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '3,4'
 import sys
 from data import get_test_loader
 from data import PrecompDataset
