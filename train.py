@@ -1,7 +1,7 @@
 """ Training """
 
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '3,4'
 import time
 import shutil
 import torch
