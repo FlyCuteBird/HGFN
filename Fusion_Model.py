@@ -118,5 +118,7 @@ if __name__ == '__main__':
 
 
     print(Com_results)
+    
+    # obtain the best results and the fusion parameter alpha 
     print(max(Com_results))
 
