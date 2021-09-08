@@ -30,7 +30,7 @@ Text to image: 60.8 85.1 91.4 || 64.4 91.0 96.1
 
 
 ## Download data
-Download the dataset files. We use the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN) (for Flickr30K and MSCOCO) 
+Download the dataset files. We use the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN), and some required data can be obtained from [here](https://drive.google.com/drive/folders/1UGmlc6noGFYoomPWXX13tIjvNzqOHTkq?usp=sharing) (for Flickr30K and MSCOCO) 
 
 ## Training
 
