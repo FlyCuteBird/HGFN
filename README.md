@@ -12,7 +12,7 @@ We recommended the following dependencies.
 
 
 ## Pretrained results
-If you don't want to train from scratch, you can download the pretrained results of HGMN from [here], the results are reported in our paper. For the fusion of different pretrained results, it can be  be easily obtained from 'Fusion_Model.py'
+If you don't want to train from scratch, you can download the pretrained results of HGMN from [here](https://drive.google.com/drive/folders/1b2Cx55i_ogAZsD9yXQtHlBUiMcVSAllK?usp=sharing), the results are reported in our paper. For the fusion of different pretrained results, it can be  be easily obtained from 'Fusion_Model.py'
 ```bash
 Flickr30K; MSCOCO
 HGMN-S:
