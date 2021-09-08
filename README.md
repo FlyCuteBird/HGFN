@@ -1,5 +1,5 @@
 # Heterogeneous Graph Matching Network for Image-text Matching 
-The code will be available soon.
+
 
 ## Introduction
 This is the source code of Heterogeneous Graph Matching Network. It is built on top of the SCAN (https://github.com/kuanghuei/SCAN) in PyTorch.
