@@ -1,8 +1,8 @@
-# Heterogeneous Graph Matching Network for Image-text Matching 
+# Heterogeneous Graph Fusion Network for Cross-modal Image-text Retrieval 
 
 
 ## Introduction
-This is the source code of Heterogeneous Graph Matching Network. It is built on top of the SCAN (https://github.com/kuanghuei/SCAN) in PyTorch.
+This is the source code of Heterogeneous Graph Fusion Network . It is built on top of the SCAN (https://github.com/kuanghuei/SCAN), GSMN in PyTorch.
 We recommended the following dependencies.
 * Python  2.7
 * [PyTorch](http://pytorch.org/) 1.1.0
@@ -12,7 +12,7 @@ We recommended the following dependencies.
 
 
 ## Pretrained results
-If you don't want to train from scratch, you can download the pretrained results of HGMN from [here](https://drive.google.com/drive/folders/1b2Cx55i_ogAZsD9yXQtHlBUiMcVSAllK?usp=sharing), the results are reported in our paper. For the fusion of different pretrained results, it can be  be easily obtained from 'Fusion_Model.py'
+If you don't want to train from scratch, you can download the pretrained results of HGFN from [here](https://drive.google.com/drive/folders/1b2Cx55i_ogAZsD9yXQtHlBUiMcVSAllK?usp=sharing), the results are reported in our paper. For the fusion of different pretrained results, it can be  be easily obtained from 'Fusion_Model.py'
 ```bash
 Flickr30K; MSCOCO
 HGMN-S:
