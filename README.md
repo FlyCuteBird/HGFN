@@ -15,11 +15,11 @@ We recommended the following dependencies.
 If you don't want to train from scratch, you can download the pretrained results of HGFN from [here](https://drive.google.com/drive/folders/1b2Cx55i_ogAZsD9yXQtHlBUiMcVSAllK?usp=sharing), the results are reported in our paper. For the fusion of different pretrained results, it can be  be easily obtained from 'Fusion_Model.py'
 ```bash
 Flickr30K; MSCOCO
-HGMN-S:
+HGFN-S:
 Image to text: 75.3 93.9 97.7 || 78.7 95.1 98.3
 Text to image: 57.8 83.0 89.3 || 62.5 89.7 95.5
 
-HGMN-P:
+HGFN-P:
 Image to text: 75.3 94.2 97.2 || 76.4 95.2 98.2
 Text to image: 57.4 83.1 89.6 || 62.8 90.3 95.6
 ```
